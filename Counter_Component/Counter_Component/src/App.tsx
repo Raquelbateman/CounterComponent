@@ -3,13 +3,13 @@ import Footer from "./components/Footer"
 import Header from "./components/Header"
 
 
-const Counter = () => {
+const App = () => {
   return (
-    
+
 <>
 
 
-    <div className='Counter'>
+    <div className='App'>
     
     
    <Header/>
@@ -26,4 +26,4 @@ const Counter = () => {
   )
 }
 
-export default Counter
+export default App

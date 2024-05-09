@@ -5,8 +5,8 @@ const Footer = () => {
     <>
     
     
+    CodeStack 2024
 
-    
     </>
   )
 }
