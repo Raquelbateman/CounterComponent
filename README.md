@@ -26,10 +26,9 @@ Use Bootstrap for styling.
 This mini challenge will help you practice setting up a React component, managing state, handling user events, and applying basic styling. Once you've completed this challenge, you'll have gained valuable experience that will prepare you for building the todo list application.
 
 <br><br>
-Reviewed By: 
 <b>GitHub:</b> https://github.com/Raquelbateman/CounterComponent<br>
 
 
-Peer Reviewed by (Your name here) <br>
+Peer Reviewed by: <br>
 Comments:  <br> type your comments here <br> 
 
