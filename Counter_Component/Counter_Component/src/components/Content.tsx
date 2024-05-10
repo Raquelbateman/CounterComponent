@@ -23,9 +23,9 @@ const Content = () => {
 
       <div className="displayNumber">
                     Current Number: {numbers}
-                </div>
-        <button onClick={increaseClick}>{+1}</button>
-        <button onClick={decreaseClick}>{-1}</button>
+                </div><br></br>
+        <button onClick={increaseClick}>{+1}</button><br></br>
+        <button onClick={decreaseClick}>{-1}</button><br></br>
         <button onClick={resetCounter}>Reset Counter</button>
       </main>
     </>
