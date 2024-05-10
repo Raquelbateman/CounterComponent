@@ -30,5 +30,5 @@ This mini challenge will help you practice setting up a React component, managin
 
 
 Peer Reviewed by: Aaron Perez <br>
-Comments:  <br> Minus Plus and reset buttons all work, I like the styling with count dracula, very clever. Great work!!!!! <br> 
+Comments: Minus Plus and reset buttons all work, I like the styling with count dracula, very clever. Great work!!!!! <br> 
 
