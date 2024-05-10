@@ -29,6 +29,6 @@ This mini challenge will help you practice setting up a React component, managin
 <b>GitHub:</b> https://github.com/Raquelbateman/CounterComponent<br>
 
 
-Peer Reviewed by: <br>
-Comments:  <br> type your comments here <br> 
+Peer Reviewed by: Aaron Perez <br>
+Comments:  <br> Minus Plus and reset buttons all work, I like the styling with count dracula, very clever. Great work!!!!! <br> 
 
