@@ -5,7 +5,7 @@ const Footer = () => {
     <>
     <footer>
     <p>
-    CodeStack 2024
+    Todays Number Is Brought To You By: CodeStack Academy
     </p>
     </footer>
     </>

@@ -3,27 +3,20 @@ import Footer from "./components/Footer"
 import Header from "./components/Header"
 
 
+
 const App = () => {
   return (
+    <>
+      <div>
 
-<>
-
-
-    <div className='App'>
-    
-    
-   <Header/>
-   <Content/>
-   <Footer/>
-    
-    
-    
-    </div>
-
-
+        <Header/>
+        <Content/>
+        <Footer/>
+      
+      </div>
     </>
-
   )
 }
 
 export default App
+
